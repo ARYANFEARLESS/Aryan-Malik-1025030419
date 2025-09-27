@@ -1,45 +1,6 @@
-# RnD_TaskFY_2025
 
 
-## 🛠️ ECHOES Club Tech Task Round
+## My Story
+I started learning web development back in 9th grade, and honestly, it became an obsession pretty quickly. That summer, I ended up teaching HTML and CSS workshops to other students my age and even some juniors. There's something amazing about sharing what you learn and seeing others get excited about coding.
 
-Welcome to the Tech Task Round for the ECHOES - The official Media Club of Thapar!
-
-### 🎯 Task Objective:
-
-Build a **one page creative personal landing webpage** that reflects **your personality, interests, and technical flair**.
-
-This task is your opportunity to **showcase your web development skills**—from design, layout, animations, content flow, to any cool JS/CSS tricks you've picked up. Feel free to go as creative, polished, or even as experimental as you'd like.
-
-### 📌 What You Need to Do:
-
-1. **Fork this repository.**
-2. Inside the `Submissions/` folder, create a new folder named **yourname_rollno** (e.g., `Submissions/shuchih-negi_xxxxxxxxxx`).
-3. Add your HTML/CSS/JS files, assets, or frameworks inside your folder.
-4. Update the `README.md` inside your folder with:
-
-   * A short write-up on what inspired your design.
-   * Any cool features/technologies/libraries you used.
-   * Anything extra you want us to know!
-5. **Submit a pull request** with your work before the deadline.
-
-### 💡 Prompt:
-
-Create a personal/portfolio-style web page that gives us a sense of:
-
-* Who you are.
-* Your visual/aesthetic/design taste.
-* Your technical abilities (this can be through animations, components, or interactive elements).
-* Optional: Use audio/video/typography creatively (but responsibly).
-
----
-
-### 🍪 Cookie Points:
-
-> You will earn extra appreciation (and possibly bonus points!) if you draw **inspiration from the website of [ECHOES](https://echoes-tiet.in/)**—our very own magazine. This could be in the form of layout choices, animations, color palette, mood, or just the storytelling style. Be tasteful, not plagiaristic!
-
----
-
-### 🚨 Important:
-
-**You must fork the repo first before making any changes. PRs made without forking will not be accepted.**
+ECHOES is basically my way of showing how far I've come since those first workshop days. I made it readable and usable for all devices by including smooth animations and media queries that adapt perfectly to phones, tablets, and desktops.
